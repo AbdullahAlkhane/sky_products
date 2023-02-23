@@ -1,0 +1,2 @@
+dynamic uId='';
+dynamic lang='';

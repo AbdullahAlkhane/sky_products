@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "407088224055",
+    "project_id": "skyproducts-54356",
+    "storage_bucket": "skyproducts-54356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407088224055:android:8142eea8bf5787a6b86cb2",
+        "android_client_info": {
+          "package_name": "com.skyproducts.skyproducts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407088224055-boq6jfslo16uokrc5eru9mp2es9uo516.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_lyxsj9aw8gchgVtSqN4-h8TYy5RmcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407088224055-boq6jfslo16uokrc5eru9mp2es9uo516.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "407088224055-9igijoa2g1jjat4kiuaiq91p6j6dh3n3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skyproducts.skyproducts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
